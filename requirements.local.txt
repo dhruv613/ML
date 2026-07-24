@@ -1,0 +1,12 @@
+# Core Data Analysis, Cleaning, and Preprocessing
+numpy>=1.22.0
+pandas>=1.4.0
+scikit-learn>=1.0.0
+
+# Data Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Advanced Machine Learning (Gradient Boosting)
+xgboost>=1.5.0
+lightgbm>=3.3.0
